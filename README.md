@@ -1,4 +1,4 @@
-# I built this small application as a tool to visually understand the push/pop shift/unshift, and splice array methods. 
+## I built this small application as a tool to visually understand the push/pop shift/unshift, and splice array methods. 
 
 
 ## Screenshots
